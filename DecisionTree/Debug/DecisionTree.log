@@ -1,0 +1,36 @@
+﻿  DecisionTree.cpp
+d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree\decisiontree.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree\decisiontree.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree\decisiontree.cpp(101): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree\decisiontree.cpp(102): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree\decisiontree.cpp(103): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree\decisiontree.cpp(104): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree\decisiontree.cpp(122): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree\decisiontree.cpp(123): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree\decisiontree.cpp(341): warning C4018: “<”: 有符号/无符号不匹配
+d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree\decisiontree.cpp(336): warning C4101: “temp_gini”: 未引用的局部变量
+  DecisionTree.vcxproj -> D:\1NKU\大二\大二下\并行程序设计\DecisionTree\Debug\DecisionTree.exe
