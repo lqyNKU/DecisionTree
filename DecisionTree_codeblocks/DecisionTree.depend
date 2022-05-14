@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1651740902 source:d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree_codeblocks\main.cpp
+	"DecisionTree.h"
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<pmmintrin.h>
+	<semaphore.h>
+	<semaphore.h>
+	<cstdio>
+	<stdio.h>
+
+1651739540 d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree_codeblocks\decisiontree.h
+	"DecisionTreeStruct.h"
+	<string>
+
+1650457758 d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree_codeblocks\decisiontreestruct.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<cmath>
+

@@ -243,8 +243,8 @@ vector<double> DecisionTree::ComputeGini(vector<vector <string>> remain_state,
 	}
 	//cout << "count " << count_sum[1][2] << endl;
 	//cout << "pro " << proportion_sum[2] << endl;
-	//vector<double> entropy(ComputeEntropy(count_sum, proportion_sum));
-	vector<double> entropy(ComputeEntropyParallel(count_sum, proportion_sum));
+	vector<double> entropy(ComputeEntropy(count_sum, proportion_sum));
+	//vector<double> entropy(ComputeEntropyParallel(count_sum, proportion_sum));
 	return entropy;
 	
 }
