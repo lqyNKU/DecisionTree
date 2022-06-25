@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1651740902 source:d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree_codeblocks\main.cpp
+	"DecisionTree.h"
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<pmmintrin.h>
+	<semaphore.h>
+	<semaphore.h>
+	<cstdio>
+	<stdio.h>
+
+1651739540 d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree_codeblocks\decisiontree.h
+	"DecisionTreeStruct.h"
+	<string>
+
+1650457758 d:\1nku\大二\大二下\并行程序设计\decisiontree\decisiontree_codeblocks\decisiontreestruct.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<cmath>
+
+1654417207 source:c:\users\赵铁柱\desktop\decisiontree-master\decisiontree-master\2_pthread\main.cpp
+	"DecisionTree.h"
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	<semaphore.h>
+	<fstream>
+
+1652518646 c:\users\赵铁柱\desktop\decisiontree-master\decisiontree-master\2_pthread\decisiontree.h
+	"DecisionTreeStruct.h"
+	<string>
+
+1652518646 c:\users\赵铁柱\desktop\decisiontree-master\decisiontree-master\2_pthread\decisiontreestruct.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<cmath>
+
+1656162682 source:d:\1nku\大二\大二下\并行程序设计\decisiontree\4_mpi\main.cpp
+	"DecisionTree.h"
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	<semaphore.h>
+	<mpi.h>
+	<malloc.h>
+
+1656151798 d:\1nku\大二\大二下\并行程序设计\decisiontree\4_mpi\decisiontree.h
+	"DecisionTreeStruct.h"
+	<string>
+
+1652518646 d:\1nku\大二\大二下\并行程序设计\decisiontree\4_mpi\decisiontreestruct.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<cmath>
+
